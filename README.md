@@ -1,2 +1,2 @@
-# ansible-tower-samples
+# ansible-automation-platform
 Ansible Tower Playbook Samples
