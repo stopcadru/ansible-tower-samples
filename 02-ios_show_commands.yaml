@@ -1,6 +1,6 @@
 ---
 - name: Sample IOS playbook to run show commands
-  hosts: iosxe
+  hosts: L11
   gather_facts: no
 
   tasks:
